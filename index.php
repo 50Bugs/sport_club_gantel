@@ -99,6 +99,9 @@
                             <a class="nav-link" href="https://t.me/juggernxut">Контакти</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="login.php">Вийти</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link disabled"><?php echo 'Hi '.$_REQUEST['name'].'!'; ?></a>
                         </li>
                     </ul>
